@@ -1,0 +1,7 @@
+Package: com.ashraful.fastdownload
+Version: 1.0.0
+Target SDK: 36 (Android 16)
+Build: Debug APK via GitHub Actions
+Gradle: 9.5.0
+Android Gradle Plugin: 9.3.0
+Java: 17

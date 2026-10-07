@@ -1,0 +1,9 @@
+<resources>
+    <color name="brand">#1565C0</color>
+    <color name="brand_dark">#0D47A1</color>
+    <color name="surface">#F7F9FC</color>
+    <color name="text_primary">#152033</color>
+    <color name="text_secondary">#607087</color>
+    <color name="success">#168A45</color>
+    <color name="danger">#C62828</color>
+</resources>
